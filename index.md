@@ -8,9 +8,9 @@
 
 | 巻 | 読者用ページ |
 |----|----------------|
-| ①　Narrative Writing（物語文）編 | 準備中 |
-| ②　Opinion Writing編（意見文編） | 準備中 |
-| ③　Essay Writing 基本編（エッセイ基本編） | 準備中 |
+| ①　Narrative Writing（物語文）編 | [シートのページ](narrative/) |
+| ②　Opinion Writing編（意見文編） | [シートのページ](opinion/) |
+| ③　Essay Writing 基本編（エッセイ基本編） | [シートのページ](essay/) |
 | ④　Essay Writing 発展編（エッセイ発展編） | [シートのページ](essay-advanced/) |
 
 シートの使い方は、それぞれの本の中でくわしく説明しています。
